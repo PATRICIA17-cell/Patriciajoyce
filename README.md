@@ -1,3 +1,5 @@
+https://www.programiz.com/online-compiler/0qxRPSOS95V2p
+
 def calculate_average(score1, score2, score3):
     return (score1 + score2 + score3) / 3
 
